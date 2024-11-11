@@ -1,0 +1,4 @@
+/* Full-height buttons with no border radius and hover effect */
+.nav-btn {
+  @apply h-16 px-4 text-gray-200 bg-transparent hover:bg-gray-800 transition-all duration-500;
+}
